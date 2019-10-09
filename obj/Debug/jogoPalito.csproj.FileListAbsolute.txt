@@ -1,0 +1,10 @@
+C:\Users\julia\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoJulia\jogoPalito\jogoPalito\bin\Debug\jogoPalito.exe.config
+C:\Users\julia\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoJulia\jogoPalito\jogoPalito\bin\Debug\jogoPalito.exe
+C:\Users\julia\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoJulia\jogoPalito\jogoPalito\bin\Debug\jogoPalito.pdb
+C:\Users\julia\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoJulia\jogoPalito\jogoPalito\obj\Debug\jogoPalito.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoJulia\jogoPalito\jogoPalito\obj\Debug\jogoPalito.Form1.resources
+C:\Users\julia\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoJulia\jogoPalito\jogoPalito\obj\Debug\jogoPalito.Properties.Resources.resources
+C:\Users\julia\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoJulia\jogoPalito\jogoPalito\obj\Debug\jogoPalito.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoJulia\jogoPalito\jogoPalito\obj\Debug\jogoPalito.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoJulia\jogoPalito\jogoPalito\obj\Debug\jogoPalito.exe
+C:\Users\julia\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoJulia\jogoPalito\jogoPalito\obj\Debug\jogoPalito.pdb
